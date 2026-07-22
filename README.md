@@ -2,21 +2,6 @@
 
 A privacy-respecting approach to AI and personal growth. Built in public.
 
-## Architecture
-
-```
-Firebase Hosting (free static hosting)
-       │
-       ▼
-React 19 + Vite 7 + TypeScript + Tailwind
-       │
-       ▼
-Cloudflare Worker (free GitHub API backend)
-       │
-       ▼
-GitHub API
-```
-
 ## Quick Start
 
 ```bash
