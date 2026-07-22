@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env.production
+*.local
+.DS_Store
+worker/.dev.vars
+functions/node_modules/
+functions/.env

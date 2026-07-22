@@ -1,0 +1,7 @@
+name = "velness-api"
+main = "src/index.ts"
+compatibility_date = "2025-07-01"
+
+[vars]
+GITHUB_OWNER = "datascyther"
+GITHUB_REPO = "velness-ai"
